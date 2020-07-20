@@ -1,0 +1,2 @@
+ExcelPathForTestData=./src/main/resources/TestData/TestData.xlsx
+ScreenShotPath=./src/test/resources/ScreenShots
